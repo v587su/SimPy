@@ -1,0 +1,13 @@
+__pycache__
+settings.json
+cached
+checkpoints
+.vscode/
+*.tar.gz
+*.tar
+results
+empirical
+test*
+tmp*
+scripts
+ds
