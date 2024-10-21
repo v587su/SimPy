@@ -6,6 +6,11 @@ It consists of the following artifacts:
 2. The converter for SimPy in the folder `spy`, which can convert between SimPy code and Python code.
 3. The scripts to run the experiments in the paper.
 
+## Dependencies
+```
+tree-sitter               0.20.2
+```
+
 ##  SimPy Grammar
 The grammar specification is in the file `spy_grammar/grammar.js`. You can refer to the [tree-sitter](https://tree-sitter.github.io/tree-sitter/creating-parsers#grammar-rules) documentation for the grammar specification.
 
